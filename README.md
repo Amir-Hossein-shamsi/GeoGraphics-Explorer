@@ -74,7 +74,7 @@ GeoGraphics comes preloaded with coordinates for major cities in Iran, including
 
 ## 🤝 Contributing
 
-We welcome contributions! Feel free to submit issues or pull requests to improve GeoGraphics.
+We welcome contributions! Feel free to submit issues or pull requests to improve GeoGraphics Explorer.
 
 ---
 
