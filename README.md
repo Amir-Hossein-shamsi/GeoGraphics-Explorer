@@ -1,6 +1,6 @@
-# 🌍 GeoGraphics: Explore Nearby Cities in Iran
+# 🌍 GeoGraphics Explorer : Explore Nearby Cities in Iran
 
-GeoGraphics is an interactive Python-based tool designed to help you find nearby cities in Iran from your custom location. Whether you're planning a trip, exploring new areas, or just curious about the geography of Iran, GeoGraphics has got you covered!
+GeoGraphics Explorer is an interactive Python-based tool designed to help you find nearby cities in Iran from your custom location. Whether you're planning a trip, exploring new areas, or just curious about the geography of Iran, GeoGraphics has got you covered!
 
 ---
 
