@@ -50,7 +50,7 @@ GeoGraphics comes preloaded with coordinates for major cities in Iran, including
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geoGraphics.git
+   git clone https://github.com/Amir-Hossein-shamsi/GeoGraphics-Explorer.git
    cd geoGraphics
    pip install -r requirements.txt
    jupyter notebook main.ipynb
